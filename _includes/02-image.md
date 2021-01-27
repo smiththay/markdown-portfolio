@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Angkor Watt temple](https://www.ancient.eu/uploads/images/11887.jpg?v=1602638105)
