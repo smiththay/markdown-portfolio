@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+States I've Lived In
+1. Massachusetts
+2. Florida
+3. Kentucky
+
+Favorite Food
+* Seafood 
+* Steak
+* Noodles
